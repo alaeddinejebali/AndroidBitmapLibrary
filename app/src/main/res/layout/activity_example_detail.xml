@@ -10,4 +10,11 @@
         android:text="@string/operationTitle"
         android:id="@+id/textView"
         android:layout_gravity="center" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar"
+        android:layout_gravity="center_horizontal|bottom" />
 </FrameLayout>
