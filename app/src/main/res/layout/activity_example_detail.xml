@@ -7,7 +7,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Hello from Ala Eddine JEBALI"
+        android:text="@string/operationTitle"
         android:id="@+id/textView"
         android:layout_gravity="center" />
 </FrameLayout>

@@ -3,5 +3,6 @@
 
     <string name="app_name">AndroidBitmapLibrary</string>
     <string name="title_example_detail">Example Detail</string>
+    <string name="operationTitle">How to create a Bitmp image?</string>
 
 </resources>
